@@ -1,4 +1,6 @@
-# Epidemiology I – Foundations of Statistical Analysis in Health Sciences
+# Epidemiology I 
+
+Foundations of Statistical Analysis in Health Sciences
 
 ## 1. Course Overview
 
